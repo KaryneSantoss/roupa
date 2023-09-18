@@ -2,18 +2,18 @@
     "produto":[
         {
             "nome":"Blusa",
-            "preco":50,
-            "imagem":"assets/img/1.png"
+            "preco":49.99,
+            "imagem":"assets/img/4.png"
         },
         {
             "nome":"Vestido",
-            "preco":100,
-            "imagem":"assets/img/2.png"
+            "preco":99.99,
+            "imagem":"assets/img/9.png"
         },
         {
             "nome":"Calça",
-            "preco":150,
-            "imagem":"assets/img/3.png"
+            "preco":79.99,
+            "imagem":"assets/img/5.png"
         }
     ]
 }
